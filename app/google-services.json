@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "208577359503",
+    "firebase_url": "https://canvasdrawlite.firebaseio.com",
+    "project_id": "canvasdrawlite",
+    "storage_bucket": "canvasdrawlite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208577359503:android:00d0655c5ede023e",
+        "android_client_info": {
+          "package_name": "com.example.elad.canvasdrawlite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208577359503-vn7cef1gksorr29gg1jdmb5taf5839nu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.elad.canvasdrawlite",
+            "certificate_hash": "110502c54a852205e15a3e2b50c8e4c4cbdd7d49"
+          }
+        },
+        {
+          "client_id": "208577359503-aldmte6rvr24bea9i51dthl3490bb1eq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFbD6Kmpa_9I9PBNTvNAJMVK2MQc3HbrI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208577359503-aldmte6rvr24bea9i51dthl3490bb1eq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
